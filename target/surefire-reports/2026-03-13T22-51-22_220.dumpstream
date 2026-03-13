@@ -1,0 +1,12 @@
+# Created on 2026-03-13T22:51:22.224
+WARNING: A terminally deprecated method in sun.misc.Unsafe has been called
+
+# Created on 2026-03-13T22:51:22.225
+WARNING: sun.misc.Unsafe::objectFieldOffset has been called by io.netty.util.internal.PlatformDependent0$4 (file:/C:/Windows/system32/config/systemprofile/.m2/repository/io/netty/netty-common/4.1.90.Final/netty-common-4.1.90.Final.jar)
+
+# Created on 2026-03-13T22:51:22.227
+WARNING: Please consider reporting this to the maintainers of class io.netty.util.internal.PlatformDependent0$4
+
+# Created on 2026-03-13T22:51:22.228
+WARNING: sun.misc.Unsafe::objectFieldOffset will be removed in a future release
+
