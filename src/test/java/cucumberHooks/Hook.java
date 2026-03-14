@@ -30,7 +30,7 @@ public class Hook {
 	{
 		//DriverManager.driver.quit();
 		   DriverManager.getDriver().quit();
-		   System.out.println("Driver Closed");
+		   System.out.println("Driver Closed successfully");
 	        DriverManager.unload();
 	}
 }
