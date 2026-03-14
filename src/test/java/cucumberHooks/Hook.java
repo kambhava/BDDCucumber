@@ -17,7 +17,7 @@ public class Hook {
 		WebDriverManager.chromedriver().setup();
 		  WebDriver driver = new ChromeDriver();
 	        DriverManager.setDriver(driver);
-	        System.out.println("Driver Set up done");
+	        System.out.println("Driver Set up is done");
 //		 DriverManager.driver=new ChromeDriver();
 //		 DriverManager.driver.manage().window().maximize();
 		//driver.manage().timeouts().implicitlyWait(30,TimeUnit.SECONDS) ;
